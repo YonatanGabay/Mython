@@ -1,0 +1,11 @@
+﻿  parser.cpp
+c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(20): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+  c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(20): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(32): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+  c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(32): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(41): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+  c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(41): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\yonatangabay\desktop\magshimim\year 2\advanced programming\semester b\lesson 1 - source control\home work\git_assignment\mython\mython\parser.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  mython.vcxproj -> C:\Users\YonatanGabay\Desktop\Magshimim\Year 2\Advanced Programming\Semester B\Lesson 1 - Source control\home work\git_assignment\mython\Debug\mython.exe
+  mython.vcxproj -> C:\Users\YonatanGabay\Desktop\Magshimim\Year 2\Advanced Programming\Semester B\Lesson 1 - Source control\home work\git_assignment\mython\Debug\mython.pdb (Partial PDB)
